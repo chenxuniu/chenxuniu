@@ -72,20 +72,3 @@ I'm a Solutions Architect at **NVIDIA**, focused on **High-Performance Computing
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenxuniu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuniu&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chenxuniu&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Interested in HPC, AI infrastructure, or GPU energy efficiency? Feel free to reach out!</i>
-</p>
