@@ -40,15 +40,6 @@ I'm a Solutions Architect at **NVIDIA**, focused on **High-Performance Computing
 
 ---
 
-## Featured Projects
-
-| Project | Description | Paper |
-|---|---|---|
-| [TokenPowerBench](https://github.com/chenxuniu/TokenPowerBench) | Benchmarking power consumption of LLM inference on multi-node GPU clusters | AAAI '26 Paper: TokenPowerBench(https://ojs.aaai.org/index.php/AAAI/article/download/40535/44496)|
-| [LLM-Inference-Engine-Benchmark](https://github.com/chenxuniu/LLM-Inference-Engine-Benchmark) | Energy consumption comparison across major LLM serving frameworks | Benchmarking power consumption of llm inference engines (https://dl.acm.org/doi/pdf/10.1145/3757892.3757900) |
-
----
-
 ## Tech Stack
 
 **AI / ML**
