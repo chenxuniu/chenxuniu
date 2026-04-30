@@ -10,9 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://chenxuniu.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chenxu-niu-771578274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://orcid.org/0000-0002-2142-1731"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+  <a href="https://chenxuniu.github.io/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chenxu-niu-771578274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-2142-1731">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -25,7 +34,7 @@ I design and optimize **large-scale AI systems** at NVIDIA, focusing on:
 - 🔥 **Performance-per-watt benchmarking** across GPU clusters  
 - 🏗️ **HPC + AI infrastructure design** (multi-node, scheduling, deployment)
 
-> *How fast can we run — and at what energy cost?*
+> **How fast can we run — and at what energy cost?**
 
 ---
 
@@ -51,15 +60,14 @@ I design and optimize **large-scale AI systems** at NVIDIA, focusing on:
 ### ⚡ LLM Inference Benchmarking
 - Multi-node GPU benchmarking across:
   - vLLM · TensorRT-LLM · DeepSpeed · HuggingFace  
-- Metrics:
-  - Throughput · Latency · Memory · Power efficiency  
+- Throughput · Latency · Memory · Power efficiency  
 
 ---
 
 ### 🔋 GPU Energy Efficiency
 - Performance-per-watt analysis across workloads  
-- Focus on sustainable AI system design  
-- Trade-off exploration: **performance vs energy cost**
+- Sustainable AI system design  
+- Trade-offs: **performance vs energy cost**
 
 ---
 
@@ -67,7 +75,7 @@ I design and optimize **large-scale AI systems** at NVIDIA, focusing on:
 - Slurm-based HPC scheduling  
 - Kubernetes-based AI deployment  
 - Hybrid cluster orchestration  
-- Multi-GPU / multi-node scaling strategies  
+- Multi-node GPU scaling  
 
 ---
 
