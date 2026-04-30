@@ -1,65 +1,76 @@
-
-
-<!--
-**chenxuniu/chenxuniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Chenxu Niu 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76B900,100:0A0A0A&height=180&section=header&text=Chenxu%20Niu&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <b>Solutions Architect @ NVIDIA · HPC · AI · Energy Efficiency</b><br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+HPC+Infrastructure;LLM+Inference+Optimization;GPU+Systems+%26+Energy+Efficiency;NVIDIA+Solutions+Architect&center=true&width=600&height=45&color=76B900">
+</p>
+
+<p align="center">
+  <b>Solutions Architect @ NVIDIA · HPC · AI Infrastructure · Energy Efficiency</b><br/>
   Santa Clara, CA
 </p>
 
 <p align="center">
-  <a href="https://chenxuniu.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-chenxuniu.github.io-blue?style=flat-square&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/chenxu-niu-771578274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Chenxu%20Niu-0077B5?style=flat-square&logo=linkedin" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-Chenxu%20Niu-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
-  <a href="https://orcid.org/0000-0002-2142-1731" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0002--2142--1731-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+  <a href="https://chenxuniu.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chenxu-niu-771578274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0002-2142-1731"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm a Solutions Architect at **NVIDIA**, focused on **High-Performance Computing (HPC)**, **AI/ML infrastructure**, and **energy efficiency** for large-scale systems. My work centers on benchmarking and optimizing LLM inference across multi-node GPU clusters — helping teams understand not just performance, but the power cost behind it.
+I design and optimize **large-scale AI systems** at NVIDIA, focusing on:
 
-- Working on **LLM inference benchmarking** across vLLM, DeepSpeed, TensorRT-LLM, and HuggingFace Transformers
-- Passionate about **GPU energy efficiency** and sustainable AI computing
-- Solutions Architecture supporting **HPC and AI workloads** at scale
+- ⚡ **LLM inference optimization** (vLLM · TensorRT-LLM · DeepSpeed)  
+- 🔥 **Performance-per-watt benchmarking** across GPU clusters  
+- 🏗️ **HPC + AI infrastructure design** (multi-node, scheduling, deployment)
+
+> *How fast can we run — and at what energy cost?*
 
 ---
 
-## Tech Stack
+## 📊 System Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chenxuniu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=76B900&icon_color=76B900" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenxuniu&theme=tokyonight&hide_border=true&background=0D1117&ring=76B900&fire=76B900&currStreakLabel=76B900" height="150"/>
+</p>
+
+---
+
+## 🧠 Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuniu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=76B900"/>
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### ⚡ LLM Inference Benchmarking
+- Multi-node GPU benchmarking across:
+  - vLLM · TensorRT-LLM · DeepSpeed · HuggingFace  
+- Metrics:
+  - Throughput · Latency · Memory · Power efficiency  
+
+---
+
+### 🔋 GPU Energy Efficiency
+- Performance-per-watt analysis across workloads  
+- Focus on sustainable AI system design  
+- Trade-off exploration: **performance vs energy cost**
+
+---
+
+### 🏗️ AI / HPC Infrastructure
+- Slurm-based HPC scheduling  
+- Kubernetes-based AI deployment  
+- Hybrid cluster orchestration  
+- Multi-GPU / multi-node scaling strategies  
+
+---
+
+## ⚙️ Tech Stack
 
 **AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**LLM Inference Engines**
-
-![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**HPC & Infrastructure**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Slurm](https://img.shields.io/badge/Slurm-HPC-brightgreen?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
