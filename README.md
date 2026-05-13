@@ -30,9 +30,9 @@
 
 I design and optimize **large-scale AI systems** at NVIDIA, focusing on:
 
+- 🏗️ **HPC + AI infrastructure design** (multi-node, scheduling, deployment)
 - ⚡ **LLM inference optimization** (vLLM · TensorRT-LLM · DeepSpeed)
 - 🔥 **Performance-per-watt benchmarking** across GPU clusters
-- 🏗️ **HPC + AI infrastructure design** (multi-node, scheduling, deployment)
 
 > **How fast can we run — and at what energy cost?**
 
@@ -42,25 +42,9 @@ I design and optimize **large-scale AI systems** at NVIDIA, focusing on:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=chenxuniu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=76B900&icon_color=76B900&cache_seconds=21600&v=2"
-    height="150"
-    alt="Chenxu Niu GitHub stats"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=chenxuniu&theme=tokyonight&hide_border=true&background=0D1117&ring=76B900&fire=76B900&currStreakLabel=76B900&cache_seconds=21600&v=2"
     height="150"
     alt="Chenxu Niu GitHub streak"
-  />
-</p>
-
----
-
-## 🧠 Language Distribution
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuniu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=76B900&cache_seconds=21600&v=2"
-    alt="Chenxu Niu top languages"
   />
 </p>
 
