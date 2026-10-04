@@ -38,6 +38,29 @@ I design and optimize **large-scale AI systems** at NVIDIA, focusing on:
 
 ---
 
+## 📚 Selected Publications
+
+- **NeurIPS 2026 · Accepted**  
+  **The 1/W Law: Context Length is the Dominant Energy Lever in LLM Inference Fleets**  
+  Proceedings forthcoming.
+
+- **ICCAD 2026 · Accepted**  
+  **MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration**  
+  [Preprint](https://arxiv.org/abs/2608.06183) · [Code](https://github.com/GEAR-SEU/MicroEvo-ICCAD-26)  
+  Proceedings forthcoming.
+
+- **AAAI 2026**  
+  **TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**  
+  [Paper](https://doi.org/10.1609/aaai.v40i38.40535) · [Code](https://github.com/chenxuniu/TokenPowerBench)
+
+- **AAAI 2026**  
+  **FIXME: Towards End-to-End Benchmarking of LLM-Aided Design Verification**  
+  [Paper](https://doi.org/10.1609/aaai.v40i2.37079)
+
+[More publications](https://chenxuniu.github.io/publications/) · [Google Scholar](https://scholar.google.com/citations?user=i1H5XQ8AAAAJ&hl=en)
+
+---
+
 ## 📊 System Activity
 
 <p align="center">
